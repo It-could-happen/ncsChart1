@@ -13,7 +13,7 @@ import plotly.graph_objs as go
 from plotly.subplots import make_subplots
 
 
-df_1 = pd.read_csv('It-could-happen/ncsChart1/NCS_18_22 (1).csv', encoding='euc-kr', index_col=0)
+df_1 = pd.read_csv('NCS_18_22.csv', encoding='euc-kr', index_col=0)
 # df_1 = pd.read_csv('/content/NCS_18_22 (1).csv', encoding='ISO-8859-1')
 
 
