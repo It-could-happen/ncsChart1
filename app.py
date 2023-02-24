@@ -51,3 +51,5 @@ fig.update_layout(
 
 # show the chart
 fig.show()
+
+st.plotly_chart(fig)
